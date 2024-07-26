@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Khang",
+      "articles": [
+        {
+          "id": "1",
+          "title": "abcd",
+          "content": "xyz"
+        },
+        {
+          "id": "2",
+          "title": "bcde",
+          "content": "xyz"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Thành",
+      "articles": [
+        {
+          "id": "3",
+          "title": "cdef",
+          "content": "xyz"
+        },
+        {
+          "id": "4",
+          "title": "defg",
+          "content": "xyz"
+        }
+      ]
+    }
+  ]
+}

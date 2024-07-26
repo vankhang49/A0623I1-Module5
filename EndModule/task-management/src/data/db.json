@@ -1,0 +1,108 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "name": "abc",
+      "description": "xyz",
+      "endDate": "2024-05-24",
+      "status": {
+        "id": "1",
+        "name": "chưa hoàn thành"
+      }
+    },
+    {
+      "id": "2",
+      "name": "abcd",
+      "description": "wxyz",
+      "endDate": "2024-04-24",
+      "status": {
+        "id": "2",
+        "name": "hoàn thành"
+      }
+    },
+    {
+      "id": "3",
+      "name": "abcde",
+      "description": "vwxyz",
+      "endDate": "2024-03-24",
+      "status": {
+        "id": "3",
+        "name": "quá hạn"
+      }
+    },
+    {
+      "id": "4",
+      "name": "ádasda",
+      "description": "ádasdasd",
+      "endDate": "2024-05-23",
+      "status": {
+        "id": "1",
+        "name": "chưa hoàn thành"
+      }
+    },
+    {
+      "id": "5",
+      "name": "NURGAZ Special offer",
+      "description": "ádasd",
+      "endDate": "2024-06-15",
+      "status": {
+        "id": "1",
+        "name": "chưa hoàn thành"
+      }
+    },
+    {
+      "id": "6",
+      "name": "smart Tivi 55 inch",
+      "description": "ádasda",
+      "endDate": "2024-06-29",
+      "status": {
+        "id": "1",
+        "name": "chưa hoàn thành"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Không sao mà em đây rồi",
+      "description": "ádasd",
+      "endDate": "2024-05-19",
+      "status": {
+        "id": "1",
+        "name": "chưa hoàn thành"
+      }
+    },
+    {
+      "id": "8",
+      "name": "NURGAZ Special offer",
+      "description": "Âsadasd",
+      "endDate": "2024-07-27",
+      "status": {
+        "id": "1",
+        "name": "chưa hoàn thành"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Xe đạp địa hình Trek Marlin 6 Gen 3 [2023]112312",
+      "description": "ádasda",
+      "endDate": "2024-08-16",
+      "status": {
+        "id": "1",
+        "name": "chưa hoàn thành"
+      }
+    }
+  ],
+  "statuses": [
+    {
+      "id": "1",
+      "name": "chưa hoàn thành"
+    },
+    {
+      "id": "2",
+      "name": "hoàn thành"
+    },
+    {
+      "id": "3",
+      "name": "quá hạn"
+    }
+  ]
+}

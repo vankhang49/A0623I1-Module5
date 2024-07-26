@@ -1,0 +1,19 @@
+{
+  "name": "server-mock-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node mock-api/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "connect-api-mocker": "^1.10.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}

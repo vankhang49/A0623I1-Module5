@@ -1,0 +1,3 @@
+interface IArea {
+    area(): number;
+}

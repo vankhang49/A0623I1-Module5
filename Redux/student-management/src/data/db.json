@@ -1,0 +1,30 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Tri",
+      "age": "18",
+      "address": "Đà nẵng"
+    },
+    {
+      "id": "3",
+      "name": "Nokia",
+      "age": "18",
+      "address": "Quảng Nam Đà Nẵng",
+      "classroom" : {
+        "id": 1,
+        "nameClass": "A0623I1"
+      }
+    }
+  ],
+  "classrooms": [
+    {
+      "id": 1,
+      "nameClass": "A0623I1"
+    },
+    {
+      "id": 2,
+      "nameClass": "A0823I1"
+    }
+  ]
+}

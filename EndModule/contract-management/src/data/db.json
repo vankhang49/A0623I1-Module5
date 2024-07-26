@@ -1,0 +1,156 @@
+{
+  "contracts": [
+    {
+      "id": "1",
+      "date": "2024-02-02",
+      "type": {
+        "id": "4",
+        "name": "Diamond"
+      },
+      "price": 5000000,
+      "area": 20,
+      "customer": {
+        "id": "1",
+        "name": "Nguyễn Văn A",
+        "phoneNumber": "0905315455",
+        "email": "nvA@gmail.com"
+      }
+    },
+    {
+      "id": "2",
+      "date": "2024-02-22",
+      "type": {
+        "id": "3",
+        "name": "Platinum"
+      },
+      "price": 3400000,
+      "area": 15,
+      "customer": {
+        "id": "2",
+        "name": "Nguyễn Văn B",
+        "phoneNumber": "0905315455",
+        "email": "nvB@gmail.com"
+      }
+    },
+    {
+      "customer": {
+        "id": "3",
+        "name": "Nguyễn Văn C",
+        "phoneNumber": "0905315455",
+        "email": "nvC@gmail.com"
+      },
+      "date": "2024-03-02",
+      "type": {
+        "id": "2",
+        "name": "Gold"
+      },
+      "area": 10,
+      "price": 2500000,
+      "id": "3"
+    },
+    {
+      "customer": {
+        "id": "4",
+        "name": "Nguyễn Văn D",
+        "phoneNumber": "0905315455",
+        "email": "nvD@gmail.com"
+      },
+      "date": "2024-03-03",
+      "type": {
+        "id": "1",
+        "name": "Silver"
+      },
+      "area": 10,
+      "price": 1500000,
+      "id": "4"
+    },
+    {
+      "customer": {
+        "id": "5",
+        "name": "Trần Văn A",
+        "phoneNumber": "0905315455",
+        "email": "tvA@gmail.com"
+      },
+      "date": "2024-06-16",
+      "type": {
+        "id": "4",
+        "name": "Diamond"
+      },
+      "area": 25,
+      "price": 9999999,
+      "id": "4FiCCkO"
+    },
+    {
+      "customer": {
+        "id": "6",
+        "name": "Trần Văn B",
+        "phoneNumber": "0905315455",
+        "email": "tvB@gmail.com"
+      },
+      "date": "2024-06-15",
+      "type": {
+        "id": "4",
+        "name": "Diamond"
+      },
+      "area": 23,
+      "price": 8888888,
+      "id": "TBwcnlQ"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "phoneNumber": "0905315455",
+      "email": "nvA@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Nguyễn Văn B",
+      "phoneNumber": "0905315455",
+      "email": "nvB@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Nguyễn Văn C",
+      "phoneNumber": "0905315455",
+      "email": "nvC@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Nguyễn Văn D",
+      "phoneNumber": "0905315455",
+      "email": "nvD@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Trần Văn A",
+      "phoneNumber": "0905315455",
+      "email": "tvA@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Trần Văn B",
+      "phoneNumber": "0905315455",
+      "email": "tvB@gmail.com"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "name": "Silver"
+    },
+    {
+      "id": "2",
+      "name": "Gold"
+    },
+    {
+      "id": "3",
+      "name": "Platinum"
+    },
+    {
+      "id": "4",
+      "name": "Diamond"
+    }
+  ]
+}

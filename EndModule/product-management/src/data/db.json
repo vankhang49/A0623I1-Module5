@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "code": "PROD-0001",
+      "name": "Blackmores Omega",
+      "description": "",
+      "type": {
+        "id": "1",
+        "name": "Thực phẩm chức năng",
+        "description": "đồ ăn"
+      },
+      "price": 598000,
+      "quantity": 1000,
+      "date": "2022-01-24"
+    },
+    {
+      "id": "2",
+      "code": "PROD-0002",
+      "name": "Blackmores CoQ10 150mg",
+      "description": "",
+      "type": {
+        "id": "1",
+        "name": "Thực phẩm chức năng",
+        "description": "đồ ăn"
+      },
+      "price": 513000,
+      "quantity": 100,
+      "date": "2022-10-15"
+    },
+    {
+      "code": "PROD-0003",
+      "name": "Máy đo huyết áp",
+      "price": 1350000,
+      "quantity": 500,
+      "date": "2023-02-03",
+      "description": "y tế",
+      "type": {
+        "id": "2",
+        "name": "Thiết bị y tế",
+        "description": "y tế"
+      },
+      "id": "3"
+    },
+    {
+      "code": "PROD-0005",
+      "name": "Xe đạp địa hình Trek Marlin 6 Gen 3",
+      "description": "ádasdasdasda",
+      "type": {
+        "id": "2",
+        "name": "Thiết bị y tế",
+        "description": "y tế"
+      },
+      "price": 89,
+      "quantity": 13,
+      "date": "2024-05-26",
+      "id": "9Q8ELoA"
+    },
+    {
+      "code": "PROD-0006",
+      "name": "smart Tivi 55 inch",
+      "description": "sdggggggggggggg",
+      "type": {
+        "id": "3",
+        "name": "Dược phẩm",
+        "description": "thuốc"
+      },
+      "price": 100000,
+      "quantity": 15,
+      "date": "2024-05-25",
+      "id": "Vi-5PJs"
+    },
+    {
+      "code": "PROD-0007",
+      "name": "Không sao mà em đây rồi",
+      "description": "đáa",
+      "type": {
+        "id": "3",
+        "name": "Dược phẩm",
+        "description": "thuốc"
+      },
+      "price": 89,
+      "quantity": 12,
+      "date": "2024-06-07",
+      "id": "Vg263hm"
+    },
+    {
+      "code": "PROD-0008",
+      "name": "Máy trợ thở",
+      "description": "thở mạnh vào",
+      "type": {
+        "id": "2",
+        "name": "Thiết bị y tế",
+        "description": "y tế"
+      },
+      "price": 10000000,
+      "quantity": 100,
+      "date": "2024-05-26",
+      "id": "XKdRXpZ"
+    },
+    {
+      "code": "PROD-0009",
+      "name": "Máy kích tim",
+      "description": "Dành cho những người tim ngừng đập hoặc tim yếu",
+      "type": {
+        "id": "2",
+        "name": "Thiết bị y tế",
+        "description": "y tế"
+      },
+      "price": 999999,
+      "quantity": 1000,
+      "date": "2024-05-18",
+      "id": "3F9H4PM"
+    },
+    {
+      "code": "PROD-0010",
+      "name": "Thuốc đau bụng",
+      "description": "Trị đau bụng",
+      "type": {
+        "id": "3",
+        "name": "Dược phẩm",
+        "description": "thuốc"
+      },
+      "price": 100000,
+      "quantity": 100,
+      "date": "2024-06-01",
+      "id": "8CQWwh9"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "name": "Thực phẩm chức năng",
+      "description": "đồ ăn"
+    },
+    {
+      "id": "2",
+      "name": "Thiết bị y tế",
+      "description": "y tế"
+    },
+    {
+      "id": "3",
+      "name": "Dược phẩm",
+      "description": "thuốc"
+    }
+  ]
+}

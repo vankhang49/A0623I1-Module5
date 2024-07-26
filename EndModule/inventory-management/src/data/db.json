@@ -1,0 +1,78 @@
+{
+  "clothes": [
+    {
+      "id": "1",
+      "title": "LW T-shirt",
+      "date": "2000-01-13",
+      "category": {
+        "id": "1",
+        "type": "shirt"
+      },
+      "quantity": "2"
+    },
+    {
+      "id": "2",
+      "title": "Hawaii shorts",
+      "date": "2021-04-20",
+      "category": {
+        "id": "3",
+        "type": "short"
+      },
+      "quantity": "3"
+    },
+    {
+      "id": "3",
+      "title": "Blaze RoutineBlaze",
+      "date": "2024-05-03",
+      "category": {
+        "id": "2",
+        "type": "blaze"
+      },
+      "quantity": "15"
+    },
+    {
+      "id": "4",
+      "title": "Channel T-shirt",
+      "date": "2021-04-20",
+      "category": {
+        "id": "1",
+        "type": "shirt"
+      },
+      "quantity": "6"
+    },
+    {
+      "id": "5",
+      "title": "Jean Shorts",
+      "date": "2024-05-31",
+      "category": {
+        "id": "3",
+        "type": "short"
+      },
+      "quantity": "12"
+    },
+    {
+      "id": "6",
+      "title": "ádasdas",
+      "date": "2024-05-24",
+      "category": {
+        "id": "1",
+        "type": "shirt"
+      },
+      "quantity": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "type": "shirt"
+    },
+    {
+      "id": "2",
+      "type": "blaze"
+    },
+    {
+      "id": "3",
+      "type": "short"
+    }
+  ]
+}

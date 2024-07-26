@@ -1,0 +1,71 @@
+.container {
+  width: 50%;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+
+label {
+  display: block;
+}
+input, textarea, button {
+  width: 100%;
+}
+.gender-label, .heal-label {
+  display: inline;
+}
+.gender, .heal-checkbox {
+  display: inline-block;
+  width: 5%;
+}
+.info-checkbox {
+  width: 5%;
+}
+
+.custom-input {
+  padding-bottom: 2%;
+}
+
+.custom-input-error label {
+  color: red;
+}
+
+.custom-input-error input {
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+.custom-input-error textarea {
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+.error {
+  color: red;
+  margin: 0;
+}
+
+.width-auto {
+  width: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.btn-submit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.submit {
+  width: 150px;
+  font-weight: bold;
+  height: 40px;
+  font-size: 16px;
+  border-radius: 10px;
+  margin: 20px;
+}
